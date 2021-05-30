@@ -103,8 +103,8 @@
 ## 贪心策略
 
 - [x] 1033  To Fill or Not to Fill (25) [贪⼼算法]
-- [ ] 1037  Magic Coupon (25) [贪⼼算法]
-- [ ] 1038  Recover the Smallest Number (30) [贪⼼算法]
+- [x] 1037  Magic Coupon (25) [贪⼼算法]
+- [x] 1038  Recover the Smallest Number (30) [贪⼼算法]
 - [ ] 1067  Sort with Swap(0,*) (25) [贪⼼算法]
 - [ ] 1070  Mooncake (25) [贪⼼算法]
 
@@ -221,7 +221,7 @@
 
 ## 动态规划
 
-- [ ] 1007  Maximum Subsequence Sum(25) [动态规划，最⼤连续⼦序列和]
+- [x] 1007  Maximum Subsequence Sum(25) [动态规划，最⼤连续⼦序列和]
 - [x] 1040  Longest Symmetric String (25) [动态规划]
 - [ ] 1045  Favorite Color Stripe (30) [动态规划，LIS / LCS]
 - [ ] 1068  Find More Coins (30) [01背包，动态规划]
