@@ -1,31 +1,19 @@
 # PATNotes
 
-## 已做
-
-- [x] 1010 radix
-- [x] 1013 Battle Over Cities
-- [x] 1019 General Palindromic Number
-- [x] 1023 Have Fun with Numbers
-- [x] 1024 Palindromic Number
-- [x] 1033 To Fill or Not to Fill 
-- [x] 1034 Head of a Gang
-- [x] 1040 Longest Symmetric String
-- [x] 1107 Social Clusters
-- [x] 1134 Vertex Cover
-- [x] 1135 Is It A Red-Black Tree
+to_string函数
 
 ## 水题
 
-- [ ] 1031  Hello World for U (20) [图形打印]
-- [ ] 1136  A Delayed Palindrome (20) [⽔题]
-- [ ] 1139  First Contact (30) [⽔题]
-- [ ] 1143  Lowest Common Ancestor (30) [⽔题]
+- [x] 1031  Hello World for U (20) [图形打印]
+- [x] 1136  A Delayed Palindrome (20) [⽔题]
+- [x] 1139  First Contact (30) [⽔题]
+- [x] 1143  Lowest Common Ancestor (30) [⽔题]
 - [ ] 1148  Werewolf – Simple Version (20) [⽔题]
 
 ## 模拟题
 
-- [ ] 1002  A+B for Polynomials (25) [模拟]
-- [ ] 1009  Product of Polynomials (25) [模拟]
+- [x] 1002  A+B for Polynomials (25) [模拟]
+- [x] 1009  Product of Polynomials (25) [模拟]
 - [ ] 1017  Queueing at Bank (25) [模拟]
 - [ ] 1026  Table Tennis (30) [模拟，排序]
 - [ ] 1042  Shufling Machine (20) [模拟]
@@ -51,13 +39,13 @@
 
 ## 查找与排序
 
-- [ ] 1006  Sign In and Sign Out (25) [查找元素]
+- [x] 1006  Sign In and Sign Out (25) [查找元素]
 - [ ] 1011  World Cup Betting (20) [查找元素]
 - [ ] 1012  The Best Rank (25) [排序]
 - [ ] 1016  Phone Bills (25) [排序]
 - [ ] 1025  PAT Ranking (25) [排序]
 - [ ] 1028  List Sorting (25) [排序]
-- [ ] 1036  Boys vs Girls (25) [查找元素]
+- [x] 1036  Boys vs Girls (25) [查找元素]
 - [ ] 1055  The World’s Richest (25) [排序]
 - [ ] 1062  Talent and Virtue (25) [排序]
 - [ ] 1075  PAT Judge (25) [排序]
@@ -85,7 +73,7 @@
 
 ## 数学问题
 
-- [ ] 1008  Elevator (20) [数学问题]
+- [x] 1008  Elevator (20) [数学问题]
 - [ ] 1015  Reversible Primes (20) [素数]
 - [x] 1023  Have Fun with Numbers (20) [⼤整数运算]
 - [x] 1024  Palindromic Number (25) [⼤整数相加]
@@ -118,7 +106,7 @@
 ## 高级数据结构
 
 - [ ] 1057  Stack (30) [树状数组]
-- [x] 1135  Is It A Red-Black Tree (30) [红⿊树]
+- [ ] 1135  Is It A Red-Black Tree (30) [红⿊树]
 - [ ] 1147  Heaps (30) [堆，树的遍历]
 - [ ] 1155  Heap Paths (30) [深搜回溯，堆]
 
@@ -141,7 +129,7 @@
 
 ### 二叉树
 
-- [ ] 1004  Counting Leaves (30) [BFS，DFS，树的层序遍历]
+- [x] 1004  Counting Leaves (30) [BFS，DFS，树的层序遍历]
 - [ ] 1020  Tree Traversals (25) [⼆叉树的遍历，后序中序转层序]
 - [ ] 1043  Is It a Binary Search Tree (25) [⼆叉查找树BST]
 - [ ] 1053  Path of Equal Weight (30) [树的遍历]
@@ -199,7 +187,7 @@
 
 ## 图论
 
-- [ ] 1003  Emergency (25) [Dijkstra算法]
+- [x] 1003  Emergency (25) [Dijkstra算法]
 - [x] 1013  Battle Over Cities (25) [图的遍历，统计连通分量的个数，DFS]
 - [ ] 1018  Public Bike Management (30) [Dijkstra算法 + DFS]
 - [ ] 1021  Deepest Root (25) [图的遍历，DFS，计算连通分量的个数]
